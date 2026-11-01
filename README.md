@@ -49,6 +49,14 @@ MoonPhase-Analysis/
 | `moon_phases_1900_2100.csv` | Moon phase data covering 1900–2100. |
 | `moon_phases_backup.csv` | Backup of moon phase data. |
 
+## 📊 Kaggle Dataset
+
+The collected lunar datasets are also available on Kaggle.
+
+Explore and download the dataset:
+
+[Historical Moon Phases (1900–2100) – Kaggle]((https://www.kaggle.com/datasets/parv17/historical-moon-phases-19002100))
+
 ## 🌐 API Information
 
 This project uses the **Moonlora Moon API**.
